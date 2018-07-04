@@ -1,0 +1,10 @@
+node_modules
+build/
+le/
+.idea
+.vscode/
+.sass-cache/
+*.css.map
+loyalty/
+yarn.lock
+package-lock.json
